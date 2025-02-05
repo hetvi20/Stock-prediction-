@@ -1,4 +1,4 @@
-**Stock at that timestamp📈**
+**Stock prediction at that timestamp📈**
 
 Objective
 1. Reinforce theoretical concepts covered in lectures.
