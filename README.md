@@ -1,3 +1,5 @@
+**Stock at that timestamp📈**
+
 Objective
 1. Reinforce theoretical concepts covered in lectures.
 2. Address a question from a real coding interview related to obtaining output from real-time data streaming.
